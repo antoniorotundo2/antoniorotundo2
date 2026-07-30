@@ -64,5 +64,6 @@ Most of my work is hands-on and full-stack in the broadest sense: real hardware,
 
 - 💼 LinkedIn: [in/eng-antoniorotundo](https://www.linkedin.com/in/eng-antoniorotundo)
 - 🌐 Portfolio: [portfolio-fh9p.onrender.com](https://portfolio-fh9p.onrender.com)
+- ✉️ Contact: [portfolio-fh9p.onrender.com/#contact](https://portfolio-fh9p.onrender.com/#contact)
 
 **🌱 Building something at the intersection of geospatial data, IoT, or AI agents? I'd love to chat.**
