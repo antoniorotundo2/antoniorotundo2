@@ -4,11 +4,11 @@
 
 Most of my work is hands-on and full-stack in the broadest sense: real hardware, real data, real deployments — with project management documentation to back it up.
 
-🔭 I'm currently working on **[Adriatic Bloom Risk](https://github.com/antoniorotundo2/adriatic-bloom-risk)**, an operational geospatial system that predicts phytoplankton bloom risk on the Adriatic coast with quantified uncertainty and causal analysis of the Po river influence — published as a preprint ([DOI: 10.5281/zenodo.21204039](https://doi.org/10.5281/zenodo.21204039)).
+🔭 I'm currently working on **[Anvil](https://github.com/antoniorotundo2/anvil)**, an executable benchmark for LLM-generated HPC operational artifacts: it verifies SLURM job scripts and Apptainer recipes by real submission, execution and resource fit — not textual similarity — and catches silent errors that `sbatch` itself accepts.
 
 ## 🚀 What I work on
 
-- **Geospatial ML & environmental risk** — probabilistic forecasting, uncertainty quantification, causal analysis
+- **LLM evaluation for HPC** — [Anvil](https://github.com/antoniorotundo2/anvil), an execution-based benchmark for SLURM scripts and Apptainer recipes, including diagnose-and-repair tasks
 - **AI agent security** — [AgentGuard](https://github.com/antoniorotundo2/agentguard), a continuous Red/Blue/Green security sentinel for AI agents (Kaggle x Google AI Agents Capstone)
 - **IoT & sensor networks** — [Chirp Air Station](https://github.com/antoniorotundo2/chirp-air-station), a distributed air-quality network built on LoRa, Wi-Fi and MQTT (C++, Docker, MongoDB, Node.js, React)
 - **Multi-agent & multi-paradigm systems** — Prolog-orchestrated logic agents driving real-time 3D simulation in Godot, coordinated by Scala over WebSocket
@@ -29,7 +29,7 @@ Most of my work is hands-on and full-stack in the broadest sense: real hardware,
 
 | Project | What it does | Stack |
 |---|---|---|
-| [adriatic-bloom-risk](https://github.com/antoniorotundo2/adriatic-bloom-risk) | Geospatial phytoplankton bloom risk prediction with quantified uncertainty and causal analysis | Python, ML, geospatial |
+| [anvil](https://github.com/antoniorotundo2/anvil) | Execution-based benchmark for LLM-generated SLURM scripts and Apptainer recipes | Python |
 | [agentguard](https://github.com/antoniorotundo2/agentguard) | Continuous Red/Blue/Green security sentinel for AI agents | Python, AI agents |
 | [chirp-air-station](https://github.com/antoniorotundo2/chirp-air-station) | Distributed air-quality sensor network over LoRa / Wi-Fi / MQTT | C++, Node.js, React, Docker, MongoDB |
 | [cas-sensor-lora](https://github.com/antoniorotundo2/cas-sensor-lora) · [cas-sensor-gateway](https://github.com/antoniorotundo2/cas-sensor-gateway) · [cas-mqtt-service](https://github.com/antoniorotundo2/cas-mqtt-service) · [cas-web-service](https://github.com/antoniorotundo2/cas-web-service) | Chirp Air Station microservice components, from firmware to web UI | C++, JavaScript |
@@ -66,4 +66,4 @@ Most of my work is hands-on and full-stack in the broadest sense: real hardware,
 - 🌐 Portfolio: [portfolio-fh9p.onrender.com](https://portfolio-fh9p.onrender.com)
 - ✉️ Contact: [portfolio-fh9p.onrender.com/#contact](https://portfolio-fh9p.onrender.com/#contact)
 
-**🌱 Building something at the intersection of geospatial data, IoT, or AI agents? I'd love to chat.**
+**🌱 Building something at the intersection of LLM evaluation, IoT, or AI agents? I'd love to chat.**
