@@ -1,10 +1,10 @@
 # Hi, I'm Antonio 👋
 
-**Software Engineer & MSc student in Computer Science and Engineering @ University of Bologna** — I build geospatial ML systems, IoT sensor networks, and multi-agent architectures, end to end: from embedded C++ on LoRa sensors to causal inference pipelines in Python.
+**Software Engineer & MSc student in Computer Science and Engineering @ University of Bologna**. I build geospatial ML systems, IoT sensor networks, and multi-agent architectures, end to end: from embedded C++ on LoRa sensors to causal inference pipelines in Python.
 
-Most of my work is hands-on and full-stack in the broadest sense: real hardware, real data, real deployments — with project management documentation to back it up.
+Most of my work is hands-on and full-stack in the broadest sense: real hardware, real data, real deployments with project management documentation to back it up.
 
-🔭 I'm currently working on **[Anvil](https://github.com/antoniorotundo2/anvil)**, an executable benchmark for LLM-generated HPC operational artifacts: it verifies SLURM job scripts and Apptainer recipes by real submission, execution and resource fit — not textual similarity — and catches silent errors that `sbatch` itself accepts.
+🔭 I'm currently working on **[Anvil](https://github.com/antoniorotundo2/anvil)**, an executable benchmark for LLM-generated HPC operational artifacts: it verifies SLURM job scripts and Apptainer recipes by real submission, execution and resource fit not textual similarity and catches silent errors that `sbatch` itself accepts.
 
 ## 🚀 What I work on
 
