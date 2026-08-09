@@ -8,21 +8,21 @@ Most of my work is hands-on and full-stack in the broadest sense: real hardware,
 
 ## 🚀 What I work on
 
-- **LLM evaluation for HPC** — [Anvil](https://github.com/antoniorotundo2/anvil), an execution-based benchmark for SLURM scripts and Apptainer recipes, including diagnose-and-repair tasks
-- **AI agent security** — [AgentGuard](https://github.com/antoniorotundo2/agentguard), a continuous Red/Blue/Green security sentinel for AI agents (Kaggle x Google AI Agents Capstone)
-- **IoT & sensor networks** — [Chirp Air Station](https://github.com/antoniorotundo2/chirp-air-station), a distributed air-quality network built on LoRa, Wi-Fi and MQTT (C++, Docker, MongoDB, Node.js, React)
-- **Multi-agent & multi-paradigm systems** — Prolog-orchestrated logic agents driving real-time 3D simulation in Godot, coordinated by Scala over WebSocket
-- **Concurrent & distributed programming** — native Java threads, RxJava, Akka actors, profiling with JProfiler, model checking with TLA+
-- **Computer vision & deep learning** — Covid-19 chest X-ray classification (Python, TensorFlow), image classification in .NET with EmguCV/OpenCV
-- **Systems, networks & security** — Linux (Gentoo, Fedora), OpenStack, Ansible, containers, GDPR compliance, digital forensics
+- **LLM evaluation for HPC** - [Anvil](https://github.com/antoniorotundo2/anvil), an execution-based benchmark for SLURM scripts and Apptainer recipes, including diagnose-and-repair tasks
+- **AI agent security** - [AgentGuard](https://github.com/antoniorotundo2/agentguard), a continuous Red/Blue/Green security sentinel for AI agents (Kaggle x Google AI Agents Capstone)
+- **IoT & sensor networks** - [Chirp Air Station](https://github.com/antoniorotundo2/chirp-air-station), a distributed air-quality network built on LoRa, Wi-Fi and MQTT (C++, Docker, MongoDB, Node.js, React)
+- **Multi-agent & multi-paradigm systems** - Prolog-orchestrated logic agents driving real-time 3D simulation in Godot, coordinated by Scala over WebSocket
+- **Concurrent & distributed programming** - native Java threads, RxJava, Akka actors, profiling with JProfiler, model checking with TLA+
+- **Computer vision & deep learning** - Covid-19 chest X-ray classification (Python, TensorFlow), image classification in .NET with EmguCV/OpenCV
+- **Systems, networks & security** - Linux (Gentoo, Fedora), OpenStack, Ansible, containers, GDPR compliance, digital forensics
 
 ## 👨‍💻 About me
 
 - 🎓 **MSc in Computer Science and Engineering** at the University of Bologna (thesis in Project Management), after a BSc in Computer and Telecommunications Engineering (thesis on the SPID authentication methodology)
 - 🐧 Open source since the beginning: contributed to the **Sabayon Linux** distribution (kernel and system modules) and have been a freelance **beta tester** since 2011
-- 🛡️ Former **IT systems analyst** at the University of Molise — network security, access control, GDPR compliance, forensics tooling
+- 🛡️ Former **IT systems analyst** at the University of Molise - network security, access control, GDPR compliance, forensics tooling
 - 🌐 Former **web developer & information systems manager** (HTML, JavaScript, PHP, ERP)
-- 📜 Certifications: Red Hat technical overviews (OpenStack, Ansible, Containers, Virtualization, RHEL), ECDL — 🇬🇧 English C1/C2
+- 📜 Certifications: Red Hat technical overviews (OpenStack, Ansible, Containers, Virtualization, RHEL), ECDL - 🇬🇧 English C1/C2
 - 💼 Open to roles as **IT Project Manager · Embedded Software Engineer · .NET Developer · Scala Developer · Data Scientist**
 
 ## 📌 Featured projects
